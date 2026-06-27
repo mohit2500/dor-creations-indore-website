@@ -1,0 +1,1 @@
+import{o as e}from"./useStore-DsC52wh1.js";import{i as t}from"./index-DiV9E_D8.js";import{t as n}from"./CategoryPage-BJRRjO2P.js";var r=e(),i=()=>(0,r.jsx)(n,{title:`Lehengas`,subtitle:`From festive flair to wedding-night glamour — every lehenga tells a story.`,match:[`lehenga`],bannerImg:t});export{i as component};

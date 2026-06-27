@@ -1,0 +1,1 @@
+import{o as e}from"./useStore-DsC52wh1.js";import{r as t}from"./index-DiV9E_D8.js";import{t as n}from"./CategoryPage-BJRRjO2P.js";var r=e(),i=()=>(0,r.jsx)(n,{title:`Bridal Wear`,subtitle:`Once-in-a-lifetime couture, hand-finished for your forever moment.`,match:[`bridal`],bannerImg:t});export{i as component};
